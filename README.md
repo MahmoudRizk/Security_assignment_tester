@@ -13,16 +13,16 @@ g++ main.cpp -std=c++11 -o binaries.out
 python __main__.py binaries.out
 ```
 #### Note: 
--The numbers sent to the c++ are in string datatype, so needed to be converted. <br>
--The c++ program must output the result to be compared only.
+- The numbers sent to the c++ are in string datatype, so needed to be converted. <br>
+- The c++ program must output the result to be compared only.
 
 ## How to make your test ?
--Edit the __Algorithm()__ function in ``` __main__.py ```, and write your custom algorithm.
+- Edit the __Algorithm()__ function in ``` __main__.py ```, and write your custom algorithm.
 
 ```python
 def Algorithm(p,q,e): 
     return p+q          #Addition
 ```
--Bits of the random number can be cahnged in ```__main__.py``` file.
+- Bits of the random number can be cahnged in ```__main__.py``` file.
 
 
