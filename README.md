@@ -1,7 +1,8 @@
 # Security_assignment_tester
 
 ## How it works ?
-python script generats 3 random number then run the c++ binaries.The script waits for the output of the c++ algorithm and compares it with same algorithm implemented in python.
+- Python script generats 3 random number then run the c++ binaries.The script waits for the output of the c++ algorithm and  compares it with same algorithm implemented in python. <br>
+- Run on __Linux__  OS only.
 
 ## How to launch it ?
 1) Build .cpp file.
