@@ -46,6 +46,6 @@ int main(int argc, char*argv[]){
   return 0;
 }
 ```
-- Bits of the random number generated can be cahnged in ```__main__.py``` file.
+- Bits of the random number generated can be changed in ```__main__.py``` file.
 
 
