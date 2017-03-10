@@ -16,6 +16,7 @@ python __main__.py binaries.out
 #### Note: 
 - The numbers sent to the c++ are in string datatype, so needed to be converted. <br>
 - The c++ program must output the result to be compared only.
+- All running files must be in the same directory.
 
 ## How to make your own test ?
 - Edit the __Algorithm()__ function in ``` __main__.py ```, and write your custom algorithm.
