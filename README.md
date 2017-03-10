@@ -13,7 +13,7 @@ g++ main.cpp -std=c++11 -o binaries.out
 ```
 python __main__.py binaries.out
 ```
-#### Note: 
+#### Notes: 
 - The numbers sent to the c++ are in string datatype, so needed to be converted. <br>
 - The c++ program must output the result to be compared only.
 - All running files must be in the same directory.
