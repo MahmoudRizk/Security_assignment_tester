@@ -25,6 +25,27 @@ python __main__.py binaries.out
 def Algorithm(p,q,e): 
     return p+q          #Addition
 ```
+#### .cpp Example:
+``` cpp
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main(int argc, char*argv[]){
+
+  string p =argv[1]; //from python script
+  string q =argv[2]; //from python script.
+  string e =argv[3]; //from python script.
+
+  int x = stoi(p);
+  int y = stoi(q);
+
+  cout << x + y << endl; 
+
+  return 0;
+}
+```
 - Bits of the random number generated can be cahnged in ```__main__.py``` file.
 
 
