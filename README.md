@@ -15,7 +15,7 @@ python __main__.py binaries.out
 ```
 #### Notes: 
 - The numbers sent to the c++ are in string datatype, so needed to be converted. <br>
-- The c++ program must output the result to be compared only.
+- The c++ program must output the __result__ to be compared __only__.
 - All running files must be in the same directory.
 
 ## How to make your own test ?
